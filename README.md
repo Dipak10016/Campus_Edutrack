@@ -62,3 +62,39 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Contact 📧
 For questions, suggestions, or feedback, please contact **Dipak Ghadge** at [dipakghadge2004@gmail.com](mailto:dipakghadge2004@gmail.com).
+
+
+## Flowchart
+![image](https://github.com/user-attachments/assets/cf5d893a-d71f-4134-953d-f6d42f6f13d9)
+
+## Mentee Information Sheets (8 bage booklet) :
+![image](https://github.com/user-attachments/assets/a6a2f75f-26ad-4d6b-8f15-a9fc040033ab)
+![image](https://github.com/user-attachments/assets/f1cf5fa2-ecad-423b-841c-b8b307743293)
+
+## GUI For faculties:
+![image](https://github.com/user-attachments/assets/fa7d4a6d-d271-4c85-937a-6a62d0208864)
+
+## Final Result:
+![image](https://github.com/user-attachments/assets/01a6c2d7-9f29-4eca-958d-84d11891ffd9)
+![image](https://github.com/user-attachments/assets/682c2429-2925-4d39-bc43-882d7e7fa1c9)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
